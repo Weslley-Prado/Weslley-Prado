@@ -12,5 +12,11 @@
 * *"Wisdom is the tree of life."*
 
 
+**Main technology**
+<a href="https://www.javascript.com/" alt="JavaScript"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+
+
+
+
 
 
