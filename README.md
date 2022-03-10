@@ -1,4 +1,4 @@
-#Hello, welcome to my profile!** 👋
+# Hello, welcome to my profile! 👋
 
  * *Currently, I am a software engineer and I am responsible for a chat email artificial intelligence project that receives requests, accesses databases and returns an automatic response that must be sent to the client who made the request.*
 * *Furthermore, I have extra work that I develop web systems and mobile applications.* 
@@ -12,7 +12,7 @@
 * *"Wisdom is the tree of life."*
 
 
-##Main technology
+## Main technology
 
 <a href="https://www.javascript.com/" alt="JavaScript"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://reactjs.org/" alt="ReactJS"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
