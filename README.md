@@ -9,10 +9,17 @@ Principles for life:
 
 * *How to reach me: [Click here: Weslley Prado](https://www.linkedin.com/in/weslleyprado/)* 
 
-**Principles for life:**
-* *"What we can do good for others, let's do it while we can."*
-* *"Let us not do to others what we would not like them to do to us."*
-* *"Wisdom is the tree of life."*
+## My BackEnd Projects - Java
+
+Here are some of my BackEnd projects in Java:
+
+- [Tigersystemseller API Project](https://github.com/Weslley-Prado/tigersystemseller-api_project)
+- [Bot Service Project](https://github.com/Weslley-Prado/bot_service_project)
+- [Spring Boot Training Udemy - RESTful API](https://github.com/Weslley-Prado/spring_boot_trainning_udemy.git)
+- [Dio Experts Session 4 - Microservices Training](https://github.com/Weslley-Prado/dio-experts-session-4)
+
+Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
+
 
 
 ## Main technology
