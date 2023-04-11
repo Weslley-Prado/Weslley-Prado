@@ -12,7 +12,7 @@ Here are some of my BackEnd projects in Java:
 - [Bot Service Project](https://github.com/Weslley-Prado/bot_service_project)
 - [Spring Boot Training Udemy - RESTful API](https://github.com/Weslley-Prado/spring_boot_trainning_udemy.git)
 - [Dio Training Avanade](https://github.com/Weslley-Prado/avanade-dio-main)
-- [Dio Experts Session 4 - Microservices Training](https://github.com/Weslley-Prado/dio-experts-session-4)
+- [API_DOC_Swagger_SpringBoot]([https://github.com/Weslley-Prado/dio-experts-session-4](https://github.com/Weslley-Prado/create_api_rest_doc_swagger))
 
 Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
 
