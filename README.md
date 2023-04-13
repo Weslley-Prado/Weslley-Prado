@@ -7,21 +7,24 @@ I am a fullstack developer with a degree in systems analysis and development and
 ## My BackEnd Projects - Java
 
 Here are some of my BackEnd projects in Java:
-
-- [Tigersystemseller API Project](https://github.com/Weslley-Prado/tigersystemseller-api_project)
+- [API DOC Swagger Spring Boot](https://github.com/Weslley-Prado/create_api_rest_doc_swagger)
 - [Bot Service Project](https://github.com/Weslley-Prado/bot_service_project)
-- [Spring Boot Training Udemy - RESTful API](https://github.com/Weslley-Prado/spring_boot_trainning_udemy.git)
+- [Design Patterns With Java](https://github.com/Weslley-Prado/Design_Patterns_with-_Java)
 - [Dio Training Avanade](https://github.com/Weslley-Prado/avanade-dio-main)
-- [API_DOC_Swagger_SpringBoot](https://github.com/Weslley-Prado/create_api_rest_doc_swagger)
+- [Spring Boot Training Udemy - RESTful API](https://github.com/Weslley-Prado/spring_boot_trainning_udemy.git)
+- [Tigersystemseller API Project](https://github.com/Weslley-Prado/tigersystemseller-api_project)
+
+
+
+- 
 
 Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
 
 ## My Front End Projects - React
 
 Here are some of my Front End projects in React:
-
-- [RockStone Site](https://github.com/Weslley-Prado/rock-stone)
 - [ERS Serviços Site](https://github.com/Weslley-Prado/ers-servico-site)
+- [RockStone Site](https://github.com/Weslley-Prado/rock-stone)
 - [Vimarbe Site](https://github.com/Weslley-Prado/virmabe.git)
 
 Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
