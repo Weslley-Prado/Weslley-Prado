@@ -15,9 +15,6 @@ Here are some of my BackEnd projects in Java:
 - [Tigersystemseller API Project](https://github.com/Weslley-Prado/tigersystemseller-api_project)
 
 
-
-- 
-
 Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
 
 ## My Front End Projects - React
