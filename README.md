@@ -7,11 +7,17 @@ I am a fullstack developer with a degree in systems analysis and development and
 ## My BackEnd Projects - Java
 
 Here are some of my BackEnd projects in Java:
+
 1.[API DOC Swagger Spring Boot](https://github.com/Weslley-Prado/create_api_rest_doc_swagger)
+
 2.[Bot Service Project](https://github.com/Weslley-Prado/bot_service_project)
+
 3.[Design Patterns With Java](https://github.com/Weslley-Prado/Design_Patterns_with-_Java)
+
 4.[Dio Training Avanade](https://github.com/Weslley-Prado/avanade-dio-main)
+
 5.[Spring Boot Training Udemy - RESTful API](https://github.com/Weslley-Prado/spring_boot_trainning_udemy.git)
+
 6.[Tigersystemseller API Project](https://github.com/Weslley-Prado/tigersystemseller-api_project)
 
 
@@ -20,8 +26,11 @@ Feel free to explore each one of them and let me know if you have any questions 
 ## My Front End Projects - React
 
 Here are some of my Front End projects in React:
+
 1.[ERS Serviços Site](https://github.com/Weslley-Prado/ers-servico-site)
+
 2.[RockStone Site](https://github.com/Weslley-Prado/rock-stone)
+
 3.[Vimarbe Site](https://github.com/Weslley-Prado/virmabe.git)
 
 Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
