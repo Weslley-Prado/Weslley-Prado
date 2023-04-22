@@ -26,6 +26,14 @@ Here are some of my Front End projects in React:
 2. [RockStone Site](https://github.com/Weslley-Prado/rock-stone) 
 3. [Vimarbe Site](https://github.com/Weslley-Prado/virmabe.git) 
 
+## Full Stack Projects and Mobile Projects too - Private
+
+I work or I already worked:
+
+1. [Tiger Sistem](https://github.com/Tiger-Sistem/tigersistemorder): system for restaurants; 
+2. [Bee_Mobile_Shopseg](https://github.com/ShopsegSistemas/bee_mobile): mobile application for checking products and also listing products that need to be purchased;
+3. [Bee_Shopseg](https://github.com/ShopsegSistemas/bee): Commercial system integrated with ERP that performs several administrative functionalities;
+
 Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
 
 
