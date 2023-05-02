@@ -14,7 +14,8 @@ Here are some of my BackEnd projects in Java:
 4. [Dio Training Avanade](https://github.com/Weslley-Prado/avanade-dio-main) 
 5. [Spring Boot Training Udemy - RESTful API](https://github.com/Weslley-Prado/spring_boot_trainning_udemy.git) 
 6. [Tigersystemseller API Project](https://github.com/Weslley-Prado/tigersystemseller-api_project)
-7. [Microsservices](https://github.com/Weslley-Prado/microsservices)
+7. [Microsservices](https://github.com/Weslley-Prado/microsservices) 
+8. [People Management](https://github.com/Weslley-Prado/PeopleManagementSystem)
 
 
 Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
