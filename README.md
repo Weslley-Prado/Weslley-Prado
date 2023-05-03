@@ -26,7 +26,8 @@ Here are some of my Front End projects in React:
 
 1. [ERS Serviços Site](https://github.com/Weslley-Prado/ers-servico-site) 
 2. [RockStone Site](https://github.com/Weslley-Prado/rock-stone) 
-3. [Vimarbe Site](https://github.com/Weslley-Prado/virmabe.git) 
+3. [Vimarbe Site](https://github.com/Weslley-Prado/virmabe.git)
+4. [Calculator](https://github.com/Weslley-Prado/calculator-react) 
 
 ## Full Stack Projects and Mobile Projects too - Private
 
