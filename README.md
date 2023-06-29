@@ -2,7 +2,18 @@
 
 I am a fullstack developer with a degree in systems analysis and development and a degree in computer engineering. I have experience with artificial intelligence and ERP systems. I have knowledge and experience in the following programming languages: TypeScript, JavaScript, Java, Python, PHP. And the following frameworks and libraries: ReactJs, NodeJs, NextJs, Spring, Django, Bootstrap. I have knowledge of HTML and CSS as well. I know agile methodologies, namely Scrum and XP.
 
-* *How to reach me: [Click here: Weslley Prado](https://www.linkedin.com/in/weslleyprado/)* 
+* *How to reach me: [Click here: Weslley Prado](https://www.linkedin.com/in/weslleyprado/)*
+
+## Full Stack Projects and Mobile Projects too - Private
+
+I work or I already worked:
+
+1. [Tiger Sistem](https://github.com/Tiger-Sistem/tigersistemorder): system for restaurants; 
+2. [Bee_Mobile_Shopseg](https://github.com/ShopsegSistemas/bee_mobile): mobile application for checking products and also listing products that need to be purchased;
+3. [Bee_Shopseg](https://github.com/ShopsegSistemas/bee): Commercial system integrated with ERP that performs several administrative functionalities;
+4. [Tiger Sistem Seller and Site](https://github.com/Weslley-Prado/TigerSystemSite): application use Java and TypeScript
+5. [Tiger Sistem Order](https://github.com/Tiger-Sistem/tigersistemorder): application use Next and Node.
+6. [Tiger Food](https://github.com/Tiger-Sistem/TigerFood):application use Next and Node.
 
 ## My BackEnd Projects - Java
 
@@ -27,15 +38,11 @@ Here are some of my Front End projects in React:
 1. [ERS Serviços Site](https://github.com/Weslley-Prado/ers-servico-site) 
 2. [RockStone Site](https://github.com/Weslley-Prado/rock-stone) 
 3. [Vimarbe Site](https://github.com/Weslley-Prado/virmabe.git)
-4. [Calculator](https://github.com/Weslley-Prado/calculator-react) 
+4. [Calculator](https://github.com/Weslley-Prado/calculator-react)
+5. [DW Granitos Site](https://github.com/Tiger-Sistem/dwagranitos)
 
-## Full Stack Projects and Mobile Projects too - Private
 
-I work or I already worked:
 
-1. [Tiger Sistem](https://github.com/Tiger-Sistem/tigersistemorder): system for restaurants; 
-2. [Bee_Mobile_Shopseg](https://github.com/ShopsegSistemas/bee_mobile): mobile application for checking products and also listing products that need to be purchased;
-3. [Bee_Shopseg](https://github.com/ShopsegSistemas/bee): Commercial system integrated with ERP that performs several administrative functionalities;
 
 Feel free to explore each one of them and let me know if you have any questions or comments. Thank you!
 
