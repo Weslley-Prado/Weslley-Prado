@@ -42,6 +42,7 @@ Here are some of my Front End projects in React:
 4. [Calculator](https://github.com/Weslley-Prado/calculator-react)
 5. [DW Granitos Site](https://github.com/Tiger-Sistem/dwagranitos)
 6. [Wiki in React](https://github.com/Weslley-Prado/Wiki).
+7. [Dio Clone](https://github.com/Weslley-Prado/dio-clone)
 
 
 
