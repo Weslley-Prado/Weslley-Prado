@@ -52,6 +52,7 @@ Here are some of my Front End projects in React:
 5. [DW Granitos Site](https://github.com/Tiger-Sistem/dwagranitos)
 6. [Wiki in React](https://github.com/Weslley-Prado/Wiki).
 7. [Dio Clone](https://github.com/Weslley-Prado/dio-clone)
+8. [Trainning React DIO - Master](https://github.com/Weslley-Prado/trilha-react-desafio-4-master)
 
 
 
