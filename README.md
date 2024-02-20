@@ -13,6 +13,9 @@ I am a fullstack developer with a degree in systems analysis and development and
 
 [![Weslley Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show=reviews, prs_merged,prs_merged_percentage)](https://github.com/Weslley-Prado)
 
+[![Weslley Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-Prado&hide_title=false)](https://github.com/Weslley-Prado)
+
+
    
 <br/>
 
