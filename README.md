@@ -16,12 +16,11 @@ I am a fullstack developer with a degree in systems analysis and development and
 
 </div>
 
-
-
-[![Weslley Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show=reviews, prs_merged,prs_merged_percentage)](https://github.com/Weslley-Prado)
-
-[![Weslley Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&show_languages=true)](https://github.com/Weslley-Prado)
-
+<div>
+  <a href="https://github.com/Weslley-Prado">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&custom_title=GitHub+Stats+Week" />
+  </a>
+</div>
 
 
 
