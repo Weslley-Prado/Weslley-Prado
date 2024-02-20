@@ -11,6 +11,8 @@ I am a fullstack developer with a degree in systems analysis and development and
 </div>
 
 [![Weslley-Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-Prado)](https://github.com/Weslley-Prado/github-readme-stats)
+
+![Weslley-Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-Prado&hide=contribs,prs)
    
 <br/>
 
