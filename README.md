@@ -9,14 +9,7 @@ I am a fullstack developer with a degree in systems analysis and development and
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-<div>
-  <a href="https://github.com/Weslley-Prado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-    
+   
 <br/>
 
 
