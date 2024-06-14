@@ -15,19 +15,6 @@ I am a fullstack developer with a degree in systems analysis and development and
 </div>   
 <br/>
 
-import requests
-
-def get_all_languages(user):
-    repos = requests.get(f'https://api.github.com/users/{user}/repos').json()
-    languages = set()
-    for repo in repos:
-        lang = repo['language']
-        if lang:
-            languages.add(lang)
-    return languages
-
-print(get_all_languages('Weslley-Prado'))
-
 
 
 ## Full Stack Projects and Mobile Projects too - Private
