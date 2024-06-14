@@ -15,6 +15,8 @@ I am a fullstack developer with a degree in systems analysis and development and
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&langs__count=8)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>   
 <br/>
 
