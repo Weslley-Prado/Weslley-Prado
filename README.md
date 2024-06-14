@@ -6,7 +6,7 @@ I am a fullstack developer with a degree in systems analysis and development and
 
 <div>
   <a href="https://github.com/Weslley-Prado">
-  <img height="280em"src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&theme=radical&include_all_commits=true&count_private=tokyonight"/>
+  <img height="280em"src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tokyonight"/>
   <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&layout=compact&langs_count=12&theme=tokyonight"/>
 </div>
    
