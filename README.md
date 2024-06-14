@@ -4,15 +4,16 @@ I am a fullstack developer with a degree in systems analysis and development and
 
 [![Weslley Prado](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/weslleyprado/)
 
-<div>
+
+
+<div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/Weslley-Prado">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub+Stats+Total" />
   </a>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&langs_count=13)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&langs_count=13" />
+</div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-</div>   
 <br/>
 
 
