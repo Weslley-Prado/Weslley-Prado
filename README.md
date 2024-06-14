@@ -13,7 +13,7 @@ I am a fullstack developer with a degree in systems analysis and development and
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&layout=compact&langs_count=7&theme=radical&custom_title=Most+Used+Languages+Total" />
   </a>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&langs_count=18)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&langs_count=13)
 
 
 </div>   
