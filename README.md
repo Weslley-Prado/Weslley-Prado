@@ -8,8 +8,7 @@ I am a fullstack developer with a degree in systems analysis and development and
 
 <div style="display: flex; ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&langs_count=13" />
-
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub+Stats+Total" />
+![Weslley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&theme=transparent)
 
   
 
