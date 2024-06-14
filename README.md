@@ -5,7 +5,7 @@ I am a fullstack developer with a degree in systems analysis and development and
 [![Weslley Prado](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/weslleyprado/)
 
 
-| <a href="https://github.com/Weslley-Prado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Weslley Prado's github stats" /></a> | <a href="https://github.com/Weslley-Prado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Weslley-Prado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Weslley-Prado&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Weslley's github stats" /></a> | <a href="https://github.com/Weslley-Prado/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslley-Prado&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div style="display: flex; justify-content: space-between">
