@@ -1,6 +1,12 @@
 # Hello, welcome to my profile! 👋
 
-I am a fullstack developer with a degree in systems analysis and development and a degree in computer engineering. I have experience with artificial intelligence and ERP systems. I have knowledge and experience in the following programming languages: TypeScript, JavaScript, Java, Python, PHP. And the following frameworks and libraries: ReactJs, NodeJs, NextJs, Spring, Django, Bootstrap. I have knowledge of HTML and CSS as well. I know agile methodologies, namely Scrum and XP.
+I am a Software Engineering specialist with a solid academic background: a degree in Systems Analysis and Development, Computer Engineering from the University of Franca, and Physics from the Federal University of Espírito Santo. I also hold a postgraduate degree in Software Engineering and an MBA in Project Management.
+
+I have experience in several multidisciplinary projects, where I was able to apply and combine a variety of programming languages, such as Java, JavaScript, TypeScript, and Python.
+
+I have strong knowledge in software architecture and solutions, with theoretical and practical expertise in all stages of software development.
+
+Currently, I am deepening my understanding of architecture and development of Artificial Intelligence systems, with a focus on data science, statistics, machine learning, deep learning, and both supervised and unsupervised algorithms.
 
 [![Weslley Prado](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/weslleyprado/)
 
